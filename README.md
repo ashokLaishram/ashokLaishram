@@ -31,6 +31,9 @@ I'm passionate about **organic gardening**—growing healthy food at home and re
 - [LinkedIn](www.linkedin.com/in/ashok-laishram-48548322)
 - 📬 [Email Me](mailto:ashok.laishram@gmail.com)
 
+### 💼 Resume
+📄 [View My Resume](https://flowcv.com/resume/tg0hofn8kq6a)
+
 ---
 
 Thanks for visiting! Let’s build something amazing. 💡
