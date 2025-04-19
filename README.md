@@ -28,11 +28,11 @@ I'm passionate about **organic gardening**—growing healthy food at home and re
 
 ### 🔗 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/ashok-laishram-48548322)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashok--laishram-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashok-laishram-48548322)
 - 📬 [Email Me](mailto:ashok.laishram@gmail.com)
 
 ### 💼 Resume
-📄 [View My Resume](https://flowcv.com/resume/tg0hofn8kq6a)
+📄 [![Resume](https://img.shields.io/badge/Resume-View-informational?style=flat&logo=readthedocs)](https://flowcv.com/resume/tg0hofn8kq6a)
 
 > 💬 _Most of my current work is private (due to government and client confidentiality), but I’m happy to share sanitized examples or walk you through architecture if needed._
 
