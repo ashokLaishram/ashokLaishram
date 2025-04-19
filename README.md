@@ -38,4 +38,4 @@ I'm passionate about **organic gardening**—growing healthy food at home and re
 
 ---
 
-Thanks for visiting! Let’s build something amazing. 💡
+Thanks for visiting! Let’s build something amazing. 
