@@ -34,7 +34,7 @@ I'm passionate about **organic gardening**—growing healthy food at home and re
 ### 💼 Resume
 📄 [View My Resume](https://flowcv.com/resume/tg0hofn8kq6a)
 
-> 💬 _Most of my current work is private, but I’m happy to share sanitized examples or walk through architecture when needed._
+> 💬 _Most of my current work is private (due to government and client confidentiality), but I’m happy to share sanitized examples or walk you through architecture if needed._
 
 ---
 
